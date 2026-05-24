@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Janeesha Reddy 👋
 
-<!--
-**Janeeshareddy/Janeeshareddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI/ML Engineer & Full-Stack Developer | CSE @ GLEC Hyderabad (2028)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 What I Build
+- AI/ML systems — classification, prediction, NLP, GenAI
+- Full-stack web apps — React, Node.js, Flask, Firebase
+- Real-time APIs and deployed ML pipelines
+
+## 🛠️ Tech Stack
+**ML/AI:** Python · TensorFlow · Scikit-learn · Gemini API · Vertex AI  
+**Web:** React.js · Node.js · Flask · Firebase  
+**Cloud:** Google Cloud · Microsoft Azure  
+**Tools:** Git · Jupyter · REST APIs · JWT · RBAC
+
+## 🚀 Featured Work
+| Project | What it does | Stack |
+|---|---|---|
+| [AI Crime Risk Detection](#) | Real-time crime prediction with Flask REST API + dashboard | Python, Flask, Scikit-learn |
+| [PrepSmartAI](#) | AI-powered study planner (Google GenAI Hackathon) | Python, Gemini API |
+| [TaskFlow](#) | Full-stack task manager with JWT auth + RBAC | React, Node.js, Firebase |
+| [Customer Churn Prediction](#) | End-to-end ML pipeline | Python, Scikit-learn |
+
+## 📌 Currently
+- 2nd year CSE student at GLEC, Hyderabad
+- Looking for ML / SDE internships (Summer/Fall 2026)
+- Published at Springer-affiliated conference
+
+## 📫 Connect
+[LinkedIn](#) · [Portfolio](#) · janeeshareddy@email.com
