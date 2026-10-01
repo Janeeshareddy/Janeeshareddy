@@ -1,32 +1,22 @@
 # Hi, I'm Janeesha Reddy 👋
+CSE student (2028) at GLEC, Hyderabad, focused on Python, data analysis and machine learning.
+Open-source contributor at GSSoC 2026 (15 PRs merged across 9 repos).
 
-AI/ML Engineer & Full-Stack Developer | CSE @ GLEC Hyderabad (2028)
-
----
-
-## 🔧 What I Build
-- AI/ML systems — classification, prediction, NLP, GenAI
-- Full-stack web apps — React, Node.js, Flask, Firebase
-- Real-time APIs and deployed ML pipelines
-
-## 🛠️ Tech Stack
-**ML/AI:** Python · TensorFlow · Scikit-learn · Gemini API · Vertex AI  
-**Web:** React.js · Node.js · Flask · Firebase  
-**Cloud:** Google Cloud · Microsoft Azure  
-**Tools:** Git · Jupyter · REST APIs · JWT · RBAC
+## 🛠️ Tech
+- **Languages:** Python, SQL, C, Java
+- **Data/ML:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+- **Tools:** Git, GitHub, Jupyter Notebook, VS Code
 
 ## 🚀 Featured Work
 | Project | What it does | Stack |
 |---|---|---|
-| [AI Crime Risk Detection](#) | Real-time crime prediction with Flask REST API + dashboard | Python, Flask, Scikit-learn |
-| [PrepSmartAI](#) | AI-powered study planner (Google GenAI Hackathon) | Python, Gemini API |
-| [TaskFlow](#) | Full-stack task manager with JWT auth + RBAC | React, Node.js, Firebase |
-| [Customer Churn Prediction](#) | End-to-end ML pipeline | Python, Scikit-learn |
+| [Customer Churn Prediction](link) | Predicts telecom churn; compares 4 models (Random Forest: 76.9% accuracy, 0.819 ROC-AUC) | Python, Pandas, Scikit-learn, XGBoost |
+| [Restaurant Analysis ML](link) | Rating prediction, cuisine classification and recommendations on 9,551 restaurants | Python, Pandas, Scikit-learn |
+| [EduMind](link) | Desktop study app built as team lead | Python, CustomTkinter |
 
 ## 📌 Currently
-- 2nd year CSE student at GLEC, Hyderabad
-- Looking for ML / SDE internships (Summer/Fall 2026)
-- Published at Springer-affiliated conference
+- 3rd year B.E. CSE
+- Looking for Data Science / ML / Python internships
 
 ## 📫 Connect
-[LinkedIn](#) · [Portfolio](#) · janeeshareddy@email.com
+[LinkedIn](https://www.linkedin.com/in/janeeshareddy/) · mjaneeshareddy1503@gmail.com
